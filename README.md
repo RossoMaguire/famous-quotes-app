@@ -5,8 +5,10 @@ This is my extension of a Code Academy course I completed on [express.js](https:
 
 In addition to the service I built a front end which allows the user to request a list of famous quotes, generate a random quote and also add a quote.
 
-Yes, you guessed it - this is my way of demonstrating CRUD interaction using an API to the express service. 
+This is my way of practicing CRUD interaction using an API with express.js 
 
 View working demo = (deployed using) => [Heroku](https://inspring-quotes-app.herokuapp.com/index.html)
+
+I hope to get to develop this further into something I will use
 
 
